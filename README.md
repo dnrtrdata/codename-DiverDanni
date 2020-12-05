@@ -5,9 +5,9 @@
 It is set entirely undersea *(infinite-diver then...)* and have a female diver character. The game's mood/feel of isolation within--*and this can't be overstated*-the Pants-Shitting-Vastness (PSV) of the sea. Codename Diver Danni will be developed in Unity.
 
 ## concepual-notes
-I'm excited about this project because it'll give me a venue to play with screen-space controls I haven't-yet seen utilized in the IR genre: I want to use a swipe control-scheme shamelessly stolen from brilliantly addicting (but sadly a bit outdated) cover-shooters [Epoch](https://www.youtube.com/watch?v=nt3vcJmilqU) and [Epoch 2](https://www.youtube.com/watch?v=xkD57QHmTTE) from [Uppercut Games](https://www.uppercut-games.com/). I love these controls. They have been immensely satisfying to me.
+* I'm excited about this project because it'll give me a venue to play with screen-space controls I haven't-yet seen utilized in the IR genre: I want to use a swipe control-scheme inspired by (shamelessly stolen from) the brilliantly addicting (but sadly outdated) cover-shooters [Epoch](https://www.youtube.com/watch?v=nt3vcJmilqU) and [Epoch 2](https://www.youtube.com/watch?v=xkD57QHmTTE) from [Uppercut Games](https://www.uppercut-games.com/). I love these controls. They have been immensely satisfying to me.
 
-I'm also drawing inspiration from the brilliant and beautifully-oversimplified character mechanics and environment creation in [Alto's Adventure](http://altosadventure.com/) and [Alto's Odyssey](http://www.altosodyssey.com/) by [Team Alto](http://www.altosadventure.com/team/)... specifically the one-touch jump/hold-to-backflip mechanic and the masterfully-composed layers of 2D sprites and increment weather. Who knows if I can acheive anything similar, but I'm going to try fleshing out the world's bg visuals with a similar aesthetic.
+* I'm also drawing inspiration from the brilliant and beautifully-oversimplified character mechanics and environment creation in [Alto's Adventure](http://altosadventure.com/) and [Alto's Odyssey](http://www.altosodyssey.com/) by [Team Alto](http://www.altosadventure.com/team/)... specifically the one-touch jump/hold-to-backflip mechanic and the masterfully-composed layers of 2D sprites and increment weather. Who knows if I can acheive anything similar, but I'm going to try fleshing out the world's bg visuals with a similar aesthetic.
   Developing in Unity.
 
 ## leveraging-screen-space
@@ -15,7 +15,9 @@ I'm also drawing inspiration from the brilliant and beautifully-oversimplified c
 * I would like to apply different noise (and otherwise shader) effects to seperate objects simultaneously. At this time, using the `Screen space - Camera` and locking the camera and/or light configuration--and therefore the effect--onto the desired Object as part of the Prefab, so it'll generate at spawn time, seems like a solution... but wherether it'll work that way is TBD.
 
 ### User/Agent Screen-space Zones
-> // though the game is entirely forward-moving...using the "depth" (or Z-axis), much of the gameplay mechanics will work around using left/right and up/down (X and Y axes, respetively).
+> // though the game is entirely forward-moving...using the "depth" (or Z-axis), much of the gameplay mechanics will work around using left/right and up/down (X and Y axes, respetively)
+* The User will swipe in whichever direction they need to move to. This mechanic will use what Epoch 1/2 used with cover, but I'll apply this so that the User can move to different `Lanes` to move forward through, both navigating the terrain *(sandbars, coral, rock-formations...eventually twisting caves and chutes, and also confined lanes made from currents and confined by turbulence from `Entities of Water Motion` like Tides, Currents, possibly larger-than-life elements like Maelstroms and Kraken tentacles...that's not too ambitious for a first commercial game, right? (Note: I know it's too ambitious, I'll let this idea go when I'm ready.)*, and interacting with dangerous elements of the environment *(large and predatory fauna, sharp flora, jagged structures)*
+> > 
 ### swipe controls
 
 ## Infinite-Runner-conventions
@@ -28,7 +30,7 @@ I'm also drawing inspiration from the brilliant and beautifully-oversimplified c
 
 ## the-math-so-far:
 ### forward-motion
-*Assuming a screen of **16x9 Units** (common ratio on mobile devices; units will probably = meters, but I'm an American and not yet ready to commit :/ )*
+*Assuming a screen of **16x9 Units** (common ratio on mobile devices; units will probably = meters, but I'll commit to the metric system when I'm emotionally mature enough to let go of my Kraken idea.)*
 * The Gravity of--or Force exerted on--`User` (actually the `Level Modules` moving around the User) will start with...
   a. baseline speed = ~8-10 u/s
   b. hindered speed = ~7-8 u/s
