@@ -44,42 +44,74 @@ This will need to be segmented due to the Assets I may be able to leverage into 
 > // There are worse forms of Pandemic retail therapy (see? justifying it EASY). If not for use in free-diving game, then for educational use and future products. Anywho, here's a list of Assets I hope to use for this project (very broad; will narrow down and cut candidates through testing process).
 
 ## purchased-asset-list
-> // *alphabetical by author; strikethrough when sorted*
+> // *alphabetical by author; some are not licensed for commercial use...acknowledged*
 * ALEXANDER PETRAEV's `Deep Components Free`
 * AMPLIFY CREATIONS' `Amplify Occlusion`
+* ANDASOFT's `EasyRoads3D Pro V3`
 * ARON GRANBERG's `A* Pathfinding Project`
+* BLACK HORIZON STUDIOS' `Unistorm - Volumetric Clouds, Sky, Modular Weather, and Cloud Shadows`
 * CAFOFO's `Water Sounds Pack`
+* CASUAL2D's `Snow Cliff Materials`
 * CATALIN PAVEL's `Low Poly Free Vegetation Pack`
 * CIATHYZA's `Gridbox Prototype Materials`
+* DARK TONIC INC.'s `Master Audio: AAA Sound`
+* DAVID STENFORS' `Animated Loading Icons`
 * DAVIT NASKIDASHVILI's `Curved World (2020)`
 * DAVIT NASKIDASHVILI's `Dynamic Radial Masks`
-* DAVIT NASKIDASHVILI's `Low Poly Mesh Generator` (TESTED: ifl it)
+* DAVIT NASKIDASHVILI's `Low Poly Mesh Generator` - ***TESTED: very easy and useful for a newbie dipshit like me; IFL it because my art direction includes an MPV for collections of triangle that vaguely resemble the (PSV of the) ocean.***
+* EDY's `Edy's Vehicle Physics`
+* ECHO17's `SimpleSQL`
 * THE DEVELOPER's `Cool Visual Effects - Part 1 - URP Support`
 * DOTBUNNY's `VSCode`
-* ~~DREAMTECK's `Forever - Endless Runner Engine`
+* FLIPBOOK GAMES' `Script Inspector 3`
 * FUNKYCODE's `Smart Lighting 2D`
+* IULIANA U `Mobile Game Outline UI Kit`
 * JANPEC's `Underwater life deluxe`
 * JUAN RODRIGUEZ's `Procedural Level Generator`
 * JEAN MORENO (JMO)'s `Free MatCap Shaders`
+* JOSH H's `Procedural UI Image`
 * JOLIX's `Low Poly Water GPU`
 * JUSTCREATE's `Low-Poly Simple Nature Pack`
 * LB3D's `Fibonacci Arrays [Optimal Spacing Script]`
+* Long BUNNY LABS' `Boing Kit: Dynamic Bouncy Bones, Grass, Water, and More`
+* LONG BUNNY LABS' `MudBun: Volumetric VFX Mesh Tool`
+* MARCUS VINICIUS DA SILVA's `TrackGen - A Procedural Track Generator`
+* MASATATSU NAKAMURA's `Teddy`
 * MOBFARM's `AutoPool`
-* ~~MOREMOUNTAINS' `Infinite Runner Engine`
 * MOREMOUNTAINS' `MMFeedbacks`
 * MHLAB's `AutoSaver - Don't waste time anymore!`
 * NOBIAX/YUGHUES's `Yughes Free Ground Materials`
+* OFFICE57's `64 Flat Game Icons`
 * PINWHEEL STUDIO's `Low Poly Water - Builtin & URP - Poseidon`
+* POLYPERFECT `Low Poly Animated Animals`
+* POLYPERFECT `Low Poly Animated People`
 * PLACEHOLDER SOFTWARE's `Wet Stuff`
+* PUSZKAREK's `Minimalist Icons`
 * RAPHAEL ERNAELSTEN's `Aura 2 - Volumetric Lighting & Fog`
 * ROAD TURTLE GAMES' `MilkShake Camera Shaker`
 * ROCKBUILDER's `RockBuilder`
 * RPGWHITELOCK's `ALLSky - 200+ Sky / Skybox Set`
+* SICS GAMES' `Toon Racing`
 * SYNTY STUDIOS' `POLYGON - Particle FX`
 * SYNTY STUDIOS' `POLYGON - Starter Pack`
 * SUB-C's `Shaped 2D - Procedural sprites and UI`
 * SLIMUI's `3D Modern Menu`
 * SCSM's `Sci-Fi Ship Controller`
+* TANUKI DIGITAL's `SUIMONO Water System`
+* UNITY EDUCATION's `Endless Runner Assets`
+* UNITY TECHNOLOGIES'
+  - `2D Game Kit`
+  - `Bolt`
+  - `Bolt Kit: Third Person for Unity`
+  - `Lost Crypt - 2D Sample Project`
+  - `Moody Tunes - LEGO Microgame Add-Ons`
+  - `Moody Skies - LEGO Microgame Add-Ons`
+  - `Unity Anima2D`
+  - `Unity Particle Pack`
+  - `Book Of The Dead: Environment`
+  - `Standard Assets (for Unity 2018.4)`
+  - `3D Game Kit - Props Pack`
+  - `Unity Particle Pack 5.x`
 * VINTAGESOFT's `Sea Animals Pack LowPoly V1`
 * VISUALWORKS' `NavMesh Cleaner`
 * 
