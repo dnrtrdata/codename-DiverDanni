@@ -39,16 +39,16 @@ It is set entirely undersea *(infinite-diver then...)* and have a female diver c
 ## approach-to-modules-and-PGC
 This will need to be segmented due to the Assets I may be able to leverage into the process. I have **two Engines listed to simplify the process of generating an environment made of modules *(listed below)*, but I don't know if I can simplify the process of building the prefabs and assembling them into modules. This may have to be done the hard way *(trial and error)*.
 
-## Leveraging-the-Asset-Store
+# Leveraging-the-Asset-Store
 * I've jumped the gun on picking appropriate tools and purchased more Asset Store assets than is probably wise, but they've been having a big sale (ending in ~ 10 hours, I beleive)... so I decided I could justify going a little overboard.
 > // There are worse forms of Pandemic retail therapy (see? justifying it EASY). If not for use in free-diving game, then for educational use and future products. Anywho, here's a list of Assets I hope to use for this project (very broad; will narrow down and cut candidates through testing process).
-
-## purchased-asset-list
+## purchased-assets
 > // *alphabetical by author; some are not licensed for commercial use...acknowledged*
 * ALEXANDER PETRAEV's `Deep Components Free`
 * AMPLIFY CREATIONS' `Amplify Occlusion`
-* ANDASOFT's `EasyRoads3D Pro V3`
 * ARON GRANBERG's `A* Pathfinding Project`
+* BEFFIO's `UI - Builder`
+* BITGEM's `Micro Monster & Heroes Pack Low Poly`
 * BLACK HORIZON STUDIOS' `Unistorm - Volumetric Clouds, Sky, Modular Weather, and Cloud Shadows`
 * CAFOFO's `Water Sounds Pack`
 * CASUAL2D's `Snow Cliff Materials`
@@ -64,64 +64,109 @@ This will need to be segmented due to the Assets I may be able to leverage into 
 * THE DEVELOPER's `Cool Visual Effects - Part 1 - URP Support`
 * DOTBUNNY's `VSCode`
 * FLIPBOOK GAMES' `Script Inspector 3`
+* FORST's `Oak Trees Package`
 * FUNKYCODE's `Smart Lighting 2D`
 * IULIANA U `Mobile Game Outline UI Kit`
 * JANPEC's `Underwater life deluxe`
 * JUAN RODRIGUEZ's `Procedural Level Generator`
 * JEAN MORENO (JMO)'s `Free MatCap Shaders`
-* JOSH H's `Procedural UI Image`
+* JOHN LEONARD FRENCH's `The Combat Collection PRO edition`
 * JOLIX's `Low Poly Water GPU`
+* JOSH H's `Procedural UI Image`
 * JUSTCREATE's `Low-Poly Simple Nature Pack`
 * LB3D's `Fibonacci Arrays [Optimal Spacing Script]`
 * Long BUNNY LABS' `Boing Kit: Dynamic Bouncy Bones, Grass, Water, and More`
 * LONG BUNNY LABS' `MudBun: Volumetric VFX Mesh Tool`
+* MANUFACTURA K4's `Top-Down Assets`
 * MARCUS VINICIUS DA SILVA's `TrackGen - A Procedural Track Generator`
 * MASATATSU NAKAMURA's `Teddy`
 * MOBFARM's `AutoPool`
 * MOREMOUNTAINS' `MMFeedbacks`
-* MHLAB's `AutoSaver - Don't waste time anymore!`
-* NOBIAX/YUGHUES's `Yughes Free Ground Materials`
-* OFFICE57's `64 Flat Game Icons`
-* PINWHEEL STUDIO's `Low Poly Water - Builtin & URP - Poseidon`
-* POLYPERFECT `Low Poly Animated Animals`
-* POLYPERFECT `Low Poly Animated People`
-* PLACEHOLDER SOFTWARE's `Wet Stuff`
-* PUSZKAREK's `Minimalist Icons`
-* RAPHAEL ERNAELSTEN's `Aura 2 - Volumetric Lighting & Fog`
-* ROAD TURTLE GAMES' `MilkShake Camera Shaker`
-* ROCKBUILDER's `RockBuilder`
+
+## purchased-assets
+
+### 2D-suited-tools
+* UNITY TECHNOLOGIES' `Unity Anima2D`
+
+### art-suited-tools
 * RPGWHITELOCK's `ALLSky - 200+ Sky / Skybox Set`
-* SICS GAMES' `Toon Racing`
-* SYNTY STUDIOS' `POLYGON - Particle FX`
-* SYNTY STUDIOS' `POLYGON - Starter Pack`
-* SUB-C's `Shaped 2D - Procedural sprites and UI`
-* SLIMUI's `3D Modern Menu`
+
+### agent-creation-and-management-suited-tools
+* SONGGAMEDEV's `Tower Defense Toolkit 4 (TDTK-4)`
+
+### camera-suited-tools
+* ROAD TURTLE GAMES' `MilkShake Camera Shaker`
+
+### controller-suited-tools
 * SCSM's `Sci-Fi Ship Controller`
+
+### editor-suited-tools
+* MHLAB's `AutoSaver - Don't waste time anymore!`
+
+### fx-suited-tools
+#### lighting-fx
+* **RAPHAEL ERNAELSTEN's** `Aura 2 - Volumetric Lighting & Fog`
+> > // favorite
+#### particle-fx
+* SYNTY STUDIOS' `POLYGON - Particle FX`
+* UNITY TECHNOLOGIES'
+  - `Unity Particle Pack`
+  - `Unity Particle Pack 5.x`
+
+### prefab-suited-tools
+
+### procedural-content-generation-suited-tools
+* ANDASOFT's `EasyRoads3D Pro V3`
+* DREAMTECK's `Forever - Endless Runner Engine`
+* MOREMOUNTAINS' `2D+3D Infinite Runner Engine`
+* PATH-O-LOGICAL GAMES' `PoolManager`
+
+### navigation-suited-tools
+* VISUALWORKS' `NavMesh Cleaner`
+
+### materials-and-shaders-suited-tools
+* NOBIAX/YUGHUES's `Yughes Free Ground Materials`
+* PLACEHOLDER SOFTWARE's `Wet Stuff`
+
+### mesh-suited-tools
+#### mesh-creation-and-management
+* ROCKBUILDER's `RockBuilder`
+#### mesh-premade-packs
+* **POLYPERFECT's**
+  - `Low Poly Animated Animals`
+  - `Low Poly Animated People`
+* SYNTY STUDIOS' `POLYGON - Starter Pack`
+* UNITY TECHNOLOGIES' `3D Game Kit - Props Pack`
+* VINTAGESOFT's `Sea Animals Pack LowPoly V1`
+
+### music-suited-tools
+
+### scripting-suited-tools
+* UNITY TECHNOLOGIES'
+  - `Bolt`
+  - `Bolt Kit: Third Person for Unity`
+
+### ui/ux-suited-tools
+* OFFICE57's `64 Flat Game Icons`
+* PUSZKAREK's `Minimalist Icons`
+* SLIMUI's `3D Modern Menu`
+* SOTI's `Modern & Clean GUI`
+* SUB-C's `Shaped 2D - Procedural sprites and UI`
+
+### water-suited-tools
+* PINWHEEL STUDIO's `Low Poly Water - Builtin & URP - Poseidon`
 * TANUKI DIGITAL's `SUIMONO Water System`
+
+## ***tools-probably-more-suited-for-other-projects***
+* POLYGON MAKER's `Fantasy Horde - Orc`
+* PROTOFACTOR, INC's `GOLEM`
+* RICIMI's `Frozen GUI Pack`
+* SICS GAMES' `Toon Racing`
 * UNITY EDUCATION's `Endless Runner Assets`
 * UNITY TECHNOLOGIES'
   - `2D Game Kit`
-  - `Bolt`
-  - `Bolt Kit: Third Person for Unity`
+  - `Book Of The Dead: Environment`
   - `Lost Crypt - 2D Sample Project`
   - `Moody Tunes - LEGO Microgame Add-Ons`
   - `Moody Skies - LEGO Microgame Add-Ons`
-  - `Unity Anima2D`
-  - `Unity Particle Pack`
-  - `Book Of The Dead: Environment`
   - `Standard Assets (for Unity 2018.4)`
-  - `3D Game Kit - Props Pack`
-  - `Unity Particle Pack 5.x`
-* VINTAGESOFT's `Sea Animals Pack LowPoly V1`
-* VISUALWORKS' `NavMesh Cleaner`
-* 
-
-## a-a-l-*(sorted)*
-### ir-specific-tools
-* DREAMTECK's `Forever - Endless Runner Engine`
-* MOREMOUNTAINS' `Infinite Runner Engine`
-#### *broad*
-#### *specialized*
-### tools
-#### *broad*
-#### *isolated*
