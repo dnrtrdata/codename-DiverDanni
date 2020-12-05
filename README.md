@@ -37,21 +37,59 @@ It is set entirely undersea *(infinite-diver then...)* and have a female diver c
   c. boosted speed = ~10-13 u/s
 
 ## approach-to-modules-and-PGC
-This will need to be segmented due to the Assets I may be able to leverage into the process.
+This will need to be segmented due to the Assets I may be able to leverage into the process. I have **two Engines listed to simplify the process of generating an environment made of modules *(listed below)*, but I don't know if I can simplify the process of building the prefabs and assembling them into modules. This may have to be done the hard way *(trial and error)*.
 
 ## Leveraging-the-Asset-Store
-  I've jumped the gun on picking appropriate tools and purchased more Asset Store assets than is probably wise, but they've been having a big sale (ending in ~ 10 hours, I beleive)... so I decided I could justify going a little overboard. There are worse forms of Pandemic retail therapy (see? justifying it EASY).
-  If not for use in free-diving game, then for educational use and future products. Anywho, here's a list of Assets I hope to use for this project (very broad; will narrow down with testing).
+* I've jumped the gun on picking appropriate tools and purchased more Asset Store assets than is probably wise, but they've been having a big sale (ending in ~ 10 hours, I beleive)... so I decided I could justify going a little overboard.
+> // There are worse forms of Pandemic retail therapy (see? justifying it EASY). If not for use in free-diving game, then for educational use and future products. Anywho, here's a list of Assets I hope to use for this project (very broad; will narrow down and cut candidates through testing process).
 
-### Engines
-#### *Broad*
+## purchased-asset-list
+> // *alphabetical by author; strikethrough when sorted*
+* ALEXANDER PETRAEV's `Deep Components Free`
+* AMPLIFY CREATIONS' `Amplify Occlusion`
+* ARON GRANBERG's `A* Pathfinding Project`
+* CAFOFO's `Water Sounds Pack`
+* CATALIN PAVEL's `Low Poly Free Vegetation Pack`
+* CIATHYZA's `Gridbox Prototype Materials`
+* DAVIT NASKIDASHVILI's `Curved World (2020)`
+* DAVIT NASKIDASHVILI's `Dynamic Radial Masks`
+* DAVIT NASKIDASHVILI's `Low Poly Mesh Generator` (TESTED: ifl it)
+* THE DEVELOPER's `Cool Visual Effects - Part 1 - URP Support`
+* DOTBUNNY's `VSCode`
+* ~~DREAMTECK's `Forever - Endless Runner Engine`
+* FUNKYCODE's `Smart Lighting 2D`
+* JANPEC's `Underwater life deluxe`
+* JUAN RODRIGUEZ's `Procedural Level Generator`
+* JEAN MORENO (JMO)'s `Free MatCap Shaders`
+* JOLIX's `Low Poly Water GPU`
+* JUSTCREATE's `Low-Poly Simple Nature Pack`
+* LB3D's `Fibonacci Arrays [Optimal Spacing Script]`
+* MOBFARM's `AutoPool`
+* ~~MOREMOUNTAINS' `Infinite Runner Engine`
+* MOREMOUNTAINS' `MMFeedbacks`
+* MHLAB's `AutoSaver - Don't waste time anymore!`
+* NOBIAX/YUGHUES's `Yughes Free Ground Materials`
+* PINWHEEL STUDIO's `Low Poly Water - Builtin & URP - Poseidon`
+* PLACEHOLDER SOFTWARE's `Wet Stuff`
+* RAPHAEL ERNAELSTEN's `Aura 2 - Volumetric Lighting & Fog`
+* ROAD TURTLE GAMES' `MilkShake Camera Shaker`
+* ROCKBUILDER's `RockBuilder`
+* RPGWHITELOCK's `ALLSky - 200+ Sky / Skybox Set`
+* SYNTY STUDIOS' `POLYGON - Particle FX`
+* SYNTY STUDIOS' `POLYGON - Starter Pack`
+* SUB-C's `Shaped 2D - Procedural sprites and UI`
+* SLIMUI's `3D Modern Menu`
+* SCSM's `Sci-Fi Ship Controller`
+* VINTAGESOFT's `Sea Animals Pack LowPoly V1`
+* VISUALWORKS' `NavMesh Cleaner`
+* 
 
-### Environmental Tools
-#### *Broad*
-* **Asset:** Low Poly Water - Builtin & URP - Poseidon 
-> // appears simple to use; useful, **scaleable, tileable patterns**; mesh generation choice (plane, area, spline, custom) to **build overhead surfaces, add bg wave FX, and foam to User/Agent locomotion**; add ripples to large creature/structure events that make User feel small and insignificant (PSV).
-* **Asset:** 
-> // 
-#### *Isolated*
-* **Asset:** 
-> // 
+## a-a-l-*(sorted)*
+### ir-specific-tools
+* DREAMTECK's `Forever - Endless Runner Engine`
+* MOREMOUNTAINS' `Infinite Runner Engine`
+#### *broad*
+#### *specialized*
+### tools
+#### *broad*
+#### *isolated*
