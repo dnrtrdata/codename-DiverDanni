@@ -1,9 +1,7 @@
-[c:dd.a_the-concept-and-pitch]
-
+[c:dd-a]
 # the-concept
 > // return to for guidance; simplify when possible 
 * An undersea IR; a balance of zen and adrenaline; cover-shooter swipe controls; isolated, thlarger-than-life "the ocean wants you dead".
-
 # the-pitch
 **Codename DiverDanni** is a **3D, infinite-runner** game **targeting mobile devices** from **low-end_to_bleeding-edge, state-of-the-art** *hardware* using a mix of *cheap, low-poly animation and art*; and a *clean, oversimplified design*...
 > > // leaving as much room as possible for more expensive FX (light, particle, noise in materials/shaders andtextures
@@ -11,51 +9,53 @@
 Set entirely undersea *(infinite-diver then...)*, it will have a female diver character, a theme of isolation in the...*and this can't be overstated*...Pants-Shitting-Vastness (PSV) of the sea.
 
 ---
-[c:dd.b_all-the-notes(cluttered)]
-# conceptual-notes
+[c:dd-b]
+# notes
 ## where-i'm-coming-from(drive-and-game~~addiction~~-inspiration)
 * I'm excited about this project because it'll give me a venue to play with screen-space controls I haven't-yet seen utilized in the IR genre: I want to use a swipe control-scheme ~~reverently inspired by~~ shamelessly stolen from the brilliantly addicting--but sadly outdated--cover-shooters [Epoch](https://www.youtube.com/watch?v=nt3vcJmilqU) and [Epoch 2](https://www.youtube.com/watch?v=xkD57QHmTTE) from [Uppercut Games](https://www.uppercut-games.com/). I love **these controls, the character's response, and the projectile-timing mechanic to time movement.** The **feel/experience** as a whole is immensely satisfying to me.
 * I'm also drawing inspiration from the brilliant and **elegant, oversimplified character mechanics and environment composition** in [Alto's Adventure](http://altosadventure.com/) and [Alto's Odyssey](http://www.altosodyssey.com/) by [Team Alto](http://www.altosadventure.com/team/)... specifically the **one-touch jump/hold-to-backflip mechanic** and the **masterfully-composed layers of 2D sprites** and **increment weather system**. Who knows if I can acheive anything similar, but I'm going to try fleshing out the world's bg visuals with a similar aesthetic.
-## genre-notes--approach-to-infinite-runners/modules/procedural-content-generation
+## genre-and-method--approach-to-infinite-runners/modules/procedural-content-generation
 This will need to be segmented due to the Assets I may be able to leverage into the process. I have **two Engines listed to simplify the process of generating an environment made of modules *(listed below)*, but I don't know if I can simplify the process of building the prefabs and assembling them into modules. This may have to be done the hard way *(trial and error)*.
-
 ## notes-on-controls/user-feedback
 ### leveraging-screen-space.user/agent-ss-zones
 > // though the game is entirely forward-moving...using the "depth" (or Z-axis), much of the gameplay mechanics will work around using left/right and up/down (X and Y axes, respetively)
 * The **User will swipe in whichever direction they wish to move to in relation to the ***screen space - camera***. This **mechanic will use ***what Epoch 1/2 used with cover,*** **but I'll apply this so that the User can move to different `Lanes` to manage the uncontrollable forward-motion--both navigating the terrain** (ie *sandbars, coral, rock-formations...* eventually *twisting caves and chutes*, and also `Lanes` confined by *virtually-invisible, turbulence-driven **Entities of Water Motion*** like *Tides, Currents,* and possibly even ***larger-than-life elements*** like **Maelstroms** and **Kraken tentacles...** that's not too ambitious for a first commercial game, right? 
-> > // Note: I know it's too ambitious. I reckon I will let this idea go when I'm damn-well ready!
-> > *spits congealing, brown loogie on dirt porch*
-* the point is that screen-space will be implemented, simplifying (in-theory) User's interaction with a 3D game by making the input/feedback as entirely 2D as possible -- the hope is that this approach will make interacting with dangerous elements of the environment--like large/predatory fauna, sharp flora, jagged-structures, to say nothing about [drowning](https://www.gohawaii.com/trip-planning/travel-smart/ocean-safety-in-hawaii) in the Pacific Ocean--much more instinctual and make any learning curve as flat as possible while keeping the adrenaline/zen balance intact.
-
-## notes-on-the-art-direction
+> > // I know it's too ambitious. I reckon I will let this idea go when I'm damn-well ready!
+> > **spits congealing, brown loogie on dirt porch**
+* The point is that screen-space will be implemented, simplifying (in-theory) User's interaction with a 3D game by making the input/feedback as entirely 2D as possible -- the hope is that this approach will make interacting with dangerous elements of the environment--like large/predatory fauna, sharp flora, jagged-structures, to say nothing about [drowning](https://www.gohawaii.com/trip-planning/travel-smart/ocean-safety-in-hawaii) in the Pacific Ocean--much more instinctual and make any learning curve as flat as possible while keeping the adrenaline/zen balance intact.
+## the-art-direction
 * I would like the visuals to be of the darker, moodier variety, similar to the visual-noise-driven light-rendering--and low-poly clever-animation-can-create-character-as-much-as-geometry--techniques used in **Playdead's Inside** (thoroughly outlined [here](https://www.youtube.com/watch?v=RdN06E6Xn9E).
 * I would like to apply different noise (and otherwise shader) effects to seperate objects simultaneously. At this time, using the `Screen space - Camera` and locking the camera and/or light configuration--and therefore the effect--onto the desired Object as part of the Prefab, so it'll generate at spawn time, seems like a solution... but wherether it'll work that way is TBD.
-
-# notes-on-the-maths
-## forward-motion
+## the-maths
+### forward-motion
 * The Gravity of--or Force exerted on--`User` (actually the `Level Modules` moving around the User) will start with...
   a. baseline speed = ~8-10 u/s
   b. hindered speed = ~7-8 u/s
   c. boosted speed = ~10-13 u/s
 > // Assuming a screen of 16x9 Units (common ratio on mobile devices).
 > > // units will probably = meters, but I'll commit to the metric system when I'm emotionally mature enough to let go of my Kraken idea.
-
-# unsorted-notes
+## unsorted
 
 > > /* list of **keywords** to keep sights on big-picture while developing [updated 12-05-2020]:
 pants-shitting-vastness, PSV,
+
 ---
+[]
 # controls
 ### swipe-controls  // shooting for similar feel to uppercut's epoch/epoch 2
 * The User will swipe in whichever direction they need to move to. This mechanic will use what Epoch 1/2 used with cover, but I'll apply this so that the User can move to different `Lanes` to move forward through, both navigating the terrain *(sandbars, coral, rock-formations...eventually twisting caves and chutes, and also confined lanes made from currents and confined by turbulence from `Entities of Water Motion` like Tides, Currents, possibly larger-than-life elements like Maelstroms and Kraken tentacles...that's not too ambitious for a first commercial game, right? (Note: I know it's too ambitious, I'll let this idea go when I'm ready.)*, and interacting with dangerous elements of the environment *(large and predatory fauna, sharp flora, jagged manmade/natural structures)*
-## Infinite-Runner-conventions
-### IRC's-to-keep
-> // Infinite Runner Conventions I want included
-* Forced motion on level `Modules`
-> > // wouldn't be an IR if you got to stop and take breathers.
-### IRC's-to-lose
 
 ---
+[]
+# infinite-runner-conventions
+### irc's-to-keep
+* Forced motion on level `Modules`
+
+### IRC's-to-lose
+* 
+
+---
+[]
 # Leveraging-the-Asset-Store
 * I've jumped the gun on picking appropriate tools and purchased more Asset Store assets than is probably wise, but they've been having a big sale (ending in ~ 10 hours, I beleive)... so I decided I could justify going a little overboard.
 > // There are worse forms of Pandemic retail therapy (see? justifying it EASY). If not for use in free-diving game, then for educational use and future products. Anywho, here's a list of Assets I hope to use for this project (very broad; will narrow down and cut candidates through testing process).
