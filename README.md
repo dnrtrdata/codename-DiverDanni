@@ -327,7 +327,12 @@ SECTION FOUR - THE PROTOTYPE DEVELOPMENT
 // heavily oversimplified into what works and what doesn't; brief explanations when deemed absolutely necessary.
 ```
 # prototype-needs
-* 
+* Which in-editor assets do you want to use during development?
+> > // also, wtf does each asset do that you're trying to leverage SPECIFICALLY for this part of this pipeline in this project?
+	- DOTBUNNY's `VSCode`				// 
+	- DREAMTECK's `Forever - Endless Runner Engine`	// 
+	- SIRENIX's `Odin - Inspector and Serializer`	// 
+	- 
 # prototype-assets
 * 
 # prototype-decisions
@@ -355,7 +360,8 @@ SECTION SIX - PRODUCTION PIPELINE [DEVLOG -OR- TRANSCRIPT OF COMPLETED TASKS]
 [c:dd_the ]
 ```
 # needs
-* 
+*
+> > // 
 # assets
 * 
 # decisions
