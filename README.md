@@ -3,7 +3,7 @@ SECTION ONE - COMMERCIAL DOC & DESIGN INTENTIONS -OR- "IT'S LIKE DIE HARD, BUT W
 ```
 
 ```
-[c:dd_the-pitch_page]
+[c:dd_the-pitch_plan]
 ```
 # the-pitch
 **Codename DiverDanni** is a **3D, infinite-runner** game **targeting mobile devices** from **low-end_to_bleeding-edge, state-of-the-art** *hardware* using a mix of *cheap, low-poly animation and art*; and a *clean, oversimplified design*...
@@ -12,7 +12,7 @@ SECTION ONE - COMMERCIAL DOC & DESIGN INTENTIONS -OR- "IT'S LIKE DIE HARD, BUT W
 Set entirely undersea *(infinite-diver then...)*, it will have a female diver character, a theme of isolation in the...*and this can't be overstated*...Pants-Shitting-Vastness (PSV) of the sea.
 ---
 ```
-[c:dd_the-concept_page]
+[c:dd_the-concept_plan]
 ```
 # the-concept
 > // return to for guidance; simplify when possible .
@@ -23,7 +23,7 @@ SECTION TWO - SOUNDING BOARD OF ELEMENTS (NOT-YET-IMPLEMENTED IN DESIGN)
 ```
 
 ```
-[c:dd_the-"get-it-all-out-so-you-can-sift-the-diamonds-from-the-riverbed".notes_page]
+[c:dd_the-"get-it-all-out-so-you-can-sift-the-diamonds-from-the-riverbed".notes_plan]
 ```
 > // paged by topic; `# notes`, then `## assets` if applicable.
 
@@ -69,7 +69,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 // page-sorted by category
 ```
 ```
-[c:dd_the-2d_page]
+[c:dd_the-2d_plan]
 ```
 # needs
 *
@@ -81,7 +81,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 * 
 ---
 ```
-[c:dd_the-art_page]
+[c:dd_the-art_plan]
 // ! moved to it's own .md doc !
 ```
 # needs...
@@ -97,7 +97,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 
 ---
 ```
-[c:dd_the-agents_page]
+[c:dd_the-agents_plan]
 ```
 # needs
 * SONGGAMEDEV's `Tower Defense Toolkit 4 (TDTK-4)`
@@ -107,7 +107,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 *
 ---
 ```
-[c:dd_the-camera_page]
+[c:dd_the-camera_plan]
 ```
 # needs
 * 
@@ -116,7 +116,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 # decisions
 * 
 ```
-[c:dd._the-controls_page]
+[c:dd._the-controls_plan]
 ```
 # needs
 * Swipe-controls  // shooting for similar feel to uppercut's Epoch/Epoch 2 - The User will swipe in whichever direction they need to move to. This mechanic will use what Epoch 1/2 used with cover, but I'll apply this so that the User can move to different `Lanes` to move forward through, both navigating the terrain *(sandbars, coral, rock-formations...eventually twisting caves and chutes, and also confined lanes made from currents and confined by turbulence from `Entities of Water Motion` like Tides, Currents, possibly larger-than-life elements like Maelstroms and Kraken tentacles...that's not too ambitious for a first commercial game, right? (Note: I know it's too ambitious, I'll let this idea go when I'm ready.)*, and interacting with dangerous elements of the environment *(large and predatory fauna, sharp flora, jagged manmade/natural structures)*
@@ -127,7 +127,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 ---
 ---
 ```
-[c:dd_the-learning-daemons_page
+[c:dd_the-learning-daemons_plan]
 ```
 # needs
 * 
@@ -137,7 +137,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 *
 ---
 ```
-[c:dd_the-fx_page]
+[c:dd_the-fx_plan]
 ```
 # needs
 
@@ -170,7 +170,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 *
 ---
 ```
-[c:dd_the-interfaces-(interfi?)_page]
+[c:dd_the-interfaces-(interfi?)_plan]
 ```
 # needs
 * 
@@ -185,7 +185,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 * 
 ---
 ```
-[cdd:the-levels_page]
+[cdd:the-levels_plan]
 ```
 # needs...
 ## ...modules 
@@ -194,7 +194,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 # decisions
 *
 ```
-[c:dd_the-materiails_page]
+[c:dd_the-materiails_plan]
 ```
 # needs
 * 
@@ -207,7 +207,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 * 
 ---
 ```
--[c:dd_the-maths_page]
+-[c:dd_the-maths_plan]
 ```
 # needs...
 ## ...forward-motion
@@ -222,7 +222,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 # decisions
 * 
 ```
-[c:dd_the-meshes_page]
+[c:dd_the-meshes_plan]
 ```
 # needs
 * 
@@ -248,7 +248,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 * 
 ---
 ```
-[c:dd_the-navigation_page]
+[c:dd_the-navigation_plan]
 ```
 # needs
 * 
@@ -259,7 +259,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 * 
 ---
 ```
-[c:dd_the-physics_page]
+[c:dd_the-physics_plan]
 ```
 # needs
 * 
@@ -269,7 +269,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 * 
 ---
 ```
-[c:dd_the-procedural-content-generation_page]
+[c:dd_the-procedural-content-generation_plan]
 ```
 # needs
 * 
@@ -287,7 +287,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 # decisions
 ---
 ```
-[c:dd_the-sounds_page]
+[c:dd_the-sounds_plan]
 ```
 # needs
 * 
@@ -303,7 +303,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 * 
 ---
 ```
-[c:dd_the-scripts_page]
+[c:dd_the-scripts_plan]
 ```
 # needs
 * 
@@ -323,7 +323,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 SECTION FOUR - THE PROTOTYPE DEVELOPMENT
 ```
 ```
-[c:dd_the-prototype_page]
+[c:dd_the-prototype_plan]
 // heavily oversimplified into what works and what doesn't; brief explanations when deemed absolutely necessary.
 ```
 # prototype-needs
@@ -344,7 +344,7 @@ SECTION FIVE - THE PREPRODUCTION PLAN
 // based on choices made in prototype development.
 ```
 ```
-[c:dd_the-preproduction-plan_page]
+[c:dd_the-preproduction_plan]
 ```
 # needs
 * 
@@ -357,7 +357,7 @@ SECTION FIVE - THE PREPRODUCTION PLAN
 SECTION SIX - PRODUCTION PIPELINE [DEVLOG -OR- TRANSCRIPT OF COMPLETED TASKS]
 ```
 ```
-[c:dd_the ]
+[c:dd_the-production_pipeline ]
 ```
 # needs
 *
@@ -372,7 +372,7 @@ SECTION SIX - PRODUCTION PIPELINE [DEVLOG -OR- TRANSCRIPT OF COMPLETED TASKS]
 SECTION SEVEN - THE LEFTOVERS`
 ```
 ```
-[c:dd_the-leftovers_page]
+[c:dd_the-leftover-assets-plan]
 // the-delicious-leftovers-you'll-heat-up-and-eat-for-lunch-(the-next-project)-tomorrow.
 ```
 # needs
