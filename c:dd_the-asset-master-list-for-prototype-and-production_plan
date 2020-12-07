@@ -1,0 +1,151 @@
+# the-asset-master-list
+> // alphabetical by author
+
+# **_win-lose-or-tie**
+> // assets in competition with similar/identical use to game
+## endless-track-generation through pooling, spawning, and destroying
+
+# *_the-ones-i-selfishly-want-to-use-because-they-looked-neat-or-were-fun-to-use
+> // i'm probably not doing this right if i don't cut a substantial amount of these, but maybe not as many as i thought.
+* DREAMTECK's `Forever - Endless Runner Engine`	// 
+* MOREMOUNTAINS' `2D+3D Infinite Runner Engine`
+
+# the-art
+* RPGWHITELOCK's `ALLSky - 200+ Sky / Skybox Set`
+> > // variety is critical and many of these look plausibly undersea with slight alterations
+
+# the-icons
+* DAVID STENFORS' `Animated Loading Icons`
+> > // keeping for both a wider variety of icons & because I'll almost certainly want one-or-more to indicate loading
+
+# the-light
+* FUNKYCODE's `Smart Lighting 2D`
+> > // being as the game is underwater, I'd like as many options as possible to cheat the lighting; i hope to put slip some invisible 2d elements in when optimizing for performance
+
+# the-multipurpose
+* ROAD TURTLE GAMES' `MilkShake Camera Shaker`
+> > // 
+* ALEXANDER PETRAEV's `Deep Components Free`
+> > //
+* AMPLIFY CREATIONS' `Amplify Occlusion`
+> > //
+* DAVIT NASKIDASHVILI's `Dynamic Radial Masks`
+> > //
+* LONG BUNNY LABS' `MudBun: Volumetric VFX Mesh Tool`
+> > // fav
+* DAVIT NASKIDASHVILI's `Curved World (2020)`
+> > //
+* PLACEHOLDER SOFTWARE's `Wet Stuff`
+> > //
+* JANPEC's `Underwater life deluxe`
+> > //
+* JOLIX's `Low Poly Water GPU`
+> > // fav
+* PINWHEEL STUDIO's `Low Poly Water - Builtin & URP - Poseidon`
+> > //
+* RIVERMILL STUDIO's - `Underwater FX`
+> > //
+* TANUKI DIGITAL's `SUIMONO Water System`
+> > //
+* BLACK HORIZON STUDIOS' `Unistorm - Volumetric Clouds, Sky, Modular Weather, and Cloud Shadows`
+> > //
+* BEFFIO's `UI - Builder`
+> > //
+* IULIANA U's `Mobile Game Outline UI Kit`
+> > //
+* PUSZKAREK's `Minilamist Icons`
+> > //
+* OFFICE57's `64 Flat Game Icons`
+> > //
+* SLIMEUI's `3D Modern Menu`
+> > //
+* SOTI's `Modern & Clean GUI`
+> > //
+* CASUAL2D's `Snow Cliff Materials`
+> > //
+* CIATHYZA's `Gridbox Prototype Materials`
+> > //
+* JEAN MORENO (JMO)'s `Free MatCap Shaders`
+> > //
+* NOBIAX/YUGHUES's `Yughes Free Ground Materials`
+> > //
+* MASATATSU NAKAMURA's `Teddy`
+> > //
+* DAVIT NASKIDASHVILI's `Low Poly Mesh Generator`
+
+* CATALIN PAVEL's `Low Poly Free Vegetation Pack`
+
+* DMITRIY DRYZHAK's
+	- `Corals`
+	- `Corals 2`
+
+* JUSTCREATE's `Low-Poly Simple Nature Pack`
+
+* *POLYPERFECT's*
+  - `Low Poly Animated Animals` // fav; use as baseline for low-poly/vertex count to match higher-complexity assets throughout
+  - `Low Poly Animated People`
+
+* SYNTY STUDIOS' `POLYGON - Starter Pack`
+
+* UNITY TECHNOLOGIES' `3D Game Kit - Props Pack`
+
+* VINTAGESOFT's `Sea Animals Pack LowPoly V1` // fav
+
+* ARON GRANBERG's `A* Pathfinding Project`
+
+* VISUALWORKS' `NavMesh Cleaner`
+* EDY's `Edy's Vehicle Physics`
+* ANDASOFT's `EasyRoads3D Pro V3`
+* DREAMTECK's `Forever - Endless Runner Engine`
+* JOSH H's `Procedural UI Image`
+* JUAN RODRIGUEZ's `Procedural Level Generator`
+* LB3D's `Fibonacci Arrays [Optimal Spacing Script]`
+* MARCUS VINICIUS DA SILVA's `TrackGen - A Procedural Track Generator`
+* MOBFARM's `AutoPool`
+* PATH-O-LOGICAL GAMES' `PoolManager`
+* ROCKBUILDER's `RockBuilder`
+* CAFOFO's `Water Sounds Pack`
+* DARK TONIC INC.'s `Master Audio: AAA Sound`
+* JOHN LEONARD FRENCH's `The Combat Collection PRO edition`
+* DOTBUNNY's `VSCode`
+* FLIPBOOK GAMES' `Script Inspector 3`
+* UNITY TECHNOLOGIES' `Bolt`
+* UNITY TECHNOLOGIES' `Bolt Kit: Third Person for Unity`
+* DOTBUNNY's `VSCode`
+// 
+
+* SIRENIX's `Odin - Inspector and Serializer`	// 
+
+## the-leftovers
+* UNITY TECHNOLOGIES' `Unity Anima2D`
+> > // i do not need this asset at this time
+* BITGEM's `Micro Monster & Heroes Pack Low Poly`
+> > // i do not need this asset at this time
+* ECHO17's `SimpleSQL`
+> > // i do not need this asset at this time
+* FORST's `Oak Trees Package`
+> > // i do not need this asset at this time
+* MANUFACTURA K4's `Top-Down Assets`
+> > // i do not need this asset at this time
+* POLYGON MAKER's `Fantasy Horde - Orc`
+> > // i do not need this asset at this time
+* PROTOFACTOR, INC's `GOLEM`
+> > // i do not need this asset at this time
+* RICIMI's `Frozen GUI Pack`
+> > // i do not need this asset at this time
+* SICS GAMES' `Toon Racing`
+> > // i do not need this asset at this time
+* UNITY EDUCATION's `Endless Runner Assets`
+> > // i do not need this asset at this time
+* UNITY TECHNOLOGIES' `2D Game Kit`
+> > // i do not need this asset at this time
+* UNITY TECHNOLOGIES' `Book Of The Dead: Environment`
+> > // i do not need this asset at this time
+* UNITY TECHNOLOGIES' `Lost Crypt - 2D Sample Project`
+> > // i do not need this asset at this time
+* UNITY TECHNOLOGIES' `Moody Tunes - LEGO Microgame Add-Ons`
+> > // i do not need this asset at this time
+* UNITY TECHNOLOGIES' `Moody Skies - LEGO Microgame Add-Ons`
+> > // i do not need this asset at this time
+* UNITY TECHNOLOGIES' `Standard Assets (for Unity 2018.4)`
+> > // i do not need this asset at this time
