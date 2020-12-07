@@ -6,7 +6,7 @@ SECTION ONE - COMMERCIAL DOC & DESIGN INTENTIONS -OR- "IT'S LIKE DIE HARD, BUT W
 [c:dd_the-pitch_plan]
 ```
 # the-pitch
-**Codename DiverDanni** is a **3D, infinite-runner** game **targeting mobile devices** from **low-end_to_bleeding-edge, state-of-the-art** *hardware* using a mix of *cheap, low-poly animation and art*; and a *clean, oversimplified design*...
+**Codename DiverDanni** is a 3D, infinite-runner game targeting touch-screen devices from *low-end_to_bleeding-edge, state-of-the-art* hardware using a mix of *cheap, low-poly animation and art*; and *a clean, oversimplified design*...
 > > // leaving as much room as possible for more expensive FX (light, particle, noise in materials/shaders andtextures
 ...and *equally oversimplified quality settings;* developing in *Unity*.
 Set entirely undersea *(infinite-diver then...)*, it will have a female diver character, a theme of isolation in the...*and this can't be overstated*...Pants-Shitting-Vastness (PSV) of the sea.
@@ -30,10 +30,6 @@ SECTION TWO - SOUNDING BOARD OF ELEMENTS (NOT-YET-IMPLEMENTED IN DESIGN)
 # notes-on-the-art-direction
 * I would like the visuals to be of the darker, moodier variety, similar to the visual-noise-driven light-rendering--and low-poly clever-animation-can-create-character-as-much-as-geometry--techniques used in **Playdead's Inside** (thoroughly outlined [here](https://www.youtube.com/watch?v=RdN06E6Xn9E)).
 * I would like to apply different noise (and otherwise shader) effects to seperate objects simultaneously. At this time, using the `Screen space - Camera` and locking the camera and/or light configuration--and therefore the effect--onto the desired Object as part of the Prefab, so it'll generate at spawn time, seems like a solution... but wherether it'll work that way is TBD.
-
-# notes-on-asset-store-leveraging
-* I've jumped the gun on picking appropriate tools and purchased more Asset Store assets than is probably wise, but they've been having a big sale (ending in ~ 10 hours, I beleive)... so I decided I could justify going a little overboard.
-> // There are worse forms of Pandemic retail therapy (see? justifying it EASY). If not for use in free-diving game, then for educational use and future products. Anywho, I did an inventory of Assets I hope to use for this project (very broad; will narrow down and cut candidates through testing and the prototyping process).
 
 # notes-on-the-*where-i'm-coming-from*-(drive-and-game-~~addiction~~-inspiration)
 * I'm excited about this project because it'll give me a venue to play with screen-space controls I haven't-yet seen utilized in the IR genre: I want to use a swipe control-scheme ~~reverently inspired by~~ shamelessly stolen from the brilliantly addicting--but sadly outdated--cover-shooters [Epoch](https://www.youtube.com/watch?v=nt3vcJmilqU) and [Epoch 2](https://www.youtube.com/watch?v=xkD57QHmTTE) from [Uppercut Games](https://www.uppercut-games.com/). I love **these controls, the character's response, and the projectile-timing mechanic to time movement.** The **feel/experience** as a whole is immensely satisfying to me.
@@ -72,13 +68,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 [c:dd_the-2d_plan]
 ```
 # needs
-*
-# assets
-* DAVID STENFORS' `Animated Loading Icons`
-* FUNKYCODE's `Smart Lighting 2D`
-* UNITY TECHNOLOGIES' `Unity Anima2D`
-# choices
-* 
+# choices 
 ---
 ```
 [c:dd_the-art_plan]
@@ -88,101 +78,46 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 ## ...concept-art...
 ### ...by-hand
 > // graph paper; mostly needs too small or specific to be met by third-party assets.
-* 
-# assets
-* RPGWHITELOCK's `ALLSky - 200+ Sky / Skybox Set`
-
 # decisions
-*
-
 ---
 ```
 [c:dd_the-agents_plan]
 ```
 # needs
-* SONGGAMEDEV's `Tower Defense Toolkit 4 (TDTK-4)`
 # assets
-* 
 # decisions
-*
 ---
 ```
 [c:dd_the-camera_plan]
 ```
 # needs
-* 
 # assets
-* ROAD TURTLE GAMES' `MilkShake Camera Shaker`
 # decisions
-* 
 ```
 [c:dd._the-controls_plan]
 ```
 # needs
 * Swipe-controls  // shooting for similar feel to uppercut's Epoch/Epoch 2 - The User will swipe in whichever direction they need to move to. This mechanic will use what Epoch 1/2 used with cover, but I'll apply this so that the User can move to different `Lanes` to move forward through, both navigating the terrain *(sandbars, coral, rock-formations...eventually twisting caves and chutes, and also confined lanes made from currents and confined by turbulence from `Entities of Water Motion` like Tides, Currents, possibly larger-than-life elements like Maelstroms and Kraken tentacles...that's not too ambitious for a first commercial game, right? (Note: I know it's too ambitious, I'll let this idea go when I'm ready.)*, and interacting with dangerous elements of the environment *(large and predatory fauna, sharp flora, jagged manmade/natural structures)*
-# assets
-* 
 # choices
-*
 ---
 ---
 ```
 [c:dd_the-learning-daemons_plan]
 ```
 # needs
-* 
-# assets
-* ALEXANDER PETRAEV's `Deep Components Free`
 # decisions
-*
 ---
 ```
 [c:dd_the-fx_plan]
 ```
 # needs
-
-# assets...
-## ...lighting-fx
-* AMPLIFY CREATIONS' `Amplify Occlusion`
-* RAPHAEL ERNAELSTEN's `Aura 2 - Volumetric Lighting & Fog` // fav
-## ...particle-fx
-* THE DEVELOPER's `Cool Visual Effects - Part 1 - URP Support`
-* SYNTY STUDIOS' `POLYGON - Particle FX`
-* UNITY TECHNOLOGIES'
-  - `Unity Particle Pack`
-  - `Unity Particle Pack 5.x`
-## ...material-and-shader-fx
-* DAVIT NASKIDASHVILI's `Dynamic Radial Masks`
-* LONG BUNNY LABS' `MudBun: Volumetric VFX Mesh Tool`
-> > // fav
-* DAVIT NASKIDASHVILI's `Curved World (2020)`
-* PLACEHOLDER SOFTWARE's `Wet Stuff`
-## ...water-fx
-* JANPEC's `Underwater life deluxe`
-* JOLIX's `Low Poly Water GPU`
-> > // fav
-* PINWHEEL STUDIO's `Low Poly Water - Builtin & URP - Poseidon`
-* RIVERMILL STUDIO's - `Underwater FX`
-* TANUKI DIGITAL's `SUIMONO Water System`
-## ...weather-fx
-* BLACK HORIZON STUDIOS' `Unistorm - Volumetric Clouds, Sky, Modular Weather, and Cloud Shadows`
 # decisions
-*
 ---
 ```
 [c:dd_the-interfaces-(interfi?)_plan]
 ```
 # needs
-* 
-# assets
-* BEFFIO's `UI - Builder`
-* IULIANA U's `Mobile Game Outline UI Kit`
-* PUSZKAREK's `Minilamist Icons`
-* OFFICE57's `64 Flat Game Icons`
-* SLIMEUI's `3D Modern Menu`
-* SOTI's `Modern & Clean GUI`
 # decisions
-* 
 ---
 ```
 [cdd:the-levels_plan]
@@ -190,21 +125,12 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 # needs...
 ## ...modules 
 # assets
-* 
 # decisions
-*
 ```
 [c:dd_the-materiails_plan]
 ```
 # needs
-* 
-# assets
-* CASUAL2D's `Snow Cliff Materials`
-* CIATHYZA's `Gridbox Prototype Materials`
-* JEAN MORENO (JMO)'s `Free MatCap Shaders`
-* NOBIAX/YUGHUES's `Yughes Free Ground Materials`
 # decisions
-* 
 ---
 ```
 -[c:dd_the-maths_plan]
@@ -217,107 +143,42 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
   b. hindered speed = ~7-8 u/s
   c. boosted speed = ~10-13 u/s
 > > // units will probably = meters, but I'll commit to the metric system when I'm emotionally mature enough to let go of my Kraken idea.
-# assets
-* 
 # decisions
-* 
 ```
 [c:dd_the-meshes_plan]
 ```
 # needs
-* 
-# assets...
-## ...creation
-* MASATATSU NAKAMURA's `Teddy`
-## ...management
-* DAVIT NASKIDASHVILI's `Low Poly Mesh Generator`
-> > // tested: very easy and useful for a newbie dipshit like me; IFL it because my art direction includes an MPV for collections of triangle that vaguely resemble the ocean (jaw-dropping-beauty; bright, big-eyed adorability; and PSV all considered).
-## ...third-party-packs
-* CATALIN PAVEL's `Low Poly Free Vegetation Pack`
-* DMITRIY DRYZHAK's
-	- `Corals`
-	- `Corals 2`
-* JUSTCREATE's `Low-Poly Simple Nature Pack`
-* *POLYPERFECT's*
-  - `Low Poly Animated Animals` // fav; use as baseline for low-poly/vertex count to match higher-complexity assets throughout
-  - `Low Poly Animated People`
-* SYNTY STUDIOS' `POLYGON - Starter Pack`
-* UNITY TECHNOLOGIES' `3D Game Kit - Props Pack`
-* VINTAGESOFT's `Sea Animals Pack LowPoly V1` // fav
 # decisions
-* 
 ---
 ```
 [c:dd_the-navigation_plan]
 ```
 # needs
-* 
-# assets
-* ARON GRANBERG's `A* Pathfinding Project`
-* VISUALWORKS' `NavMesh Cleaner`
 # decisions
-* 
 ---
 ```
 [c:dd_the-physics_plan]
 ```
 # needs
-* 
-# assets
-* EDY's `Edy's Vehicle Physics`
 # decision
-* 
 ---
 ```
 [c:dd_the-procedural-content-generation_plan]
 ```
 # needs
-* 
-# assets
-* ANDASOFT's `EasyRoads3D Pro V3`
-* DREAMTECK's `Forever - Endless Runner Engine`
-* JOSH H's `Procedural UI Image`
-* JUAN RODRIGUEZ's `Procedural Level Generator`
-* LB3D's `Fibonacci Arrays [Optimal Spacing Script]`
-* MARCUS VINICIUS DA SILVA's `TrackGen - A Procedural Track Generator`
-* MOREMOUNTAINS' `2D+3D Infinite Runner Engine`
-* MOBFARM's `AutoPool`
-* PATH-O-LOGICAL GAMES' `PoolManager`
-* ROCKBUILDER's `RockBuilder`
 # decisions
 ---
 ```
 [c:dd_the-sounds_plan]
 ```
 # needs
-* 
-# assets...
-## ...diagetic
-* CAFOFO's `Water Sounds Pack`
-## ...muzak
-* DARK TONIC INC.'s `Master Audio: AAA Sound`
-* JOHN LEONARD FRENCH's `The Combat Collection PRO edition`
-## ...other/non-diegetic
-* 
 # decisions
-* 
 ---
 ```
 [c:dd_the-scripts_plan]
 ```
 # needs
-* 
-# assets...
-## ...code
-* DOTBUNNY's `VSCode`
-## ...troubleshooting
-* FLIPBOOK GAMES' `Script Inspector 3`
-## ...visual
-* UNITY TECHNOLOGIES'
-  - `Bolt`
-  - `Bolt Kit: Third Person for Unity`
 # decisions
-* 
 ---
 ```
 SECTION FOUR - THE PROTOTYPE DEVELOPMENT
@@ -329,15 +190,8 @@ SECTION FOUR - THE PROTOTYPE DEVELOPMENT
 # prototype-needs
 * Which in-editor assets do you want to use during development?
 > > // also, wtf does each asset do that you're trying to leverage SPECIFICALLY for this part of this pipeline in this project?
-	- DOTBUNNY's `VSCode`				// 
-	- DREAMTECK's `Forever - Endless Runner Engine`	// 
-	- SIRENIX's `Odin - Inspector and Serializer`	// 
-	- 
 # prototype-assets
-* 
 # prototype-decisions
-*
-
 ---
 ```
 SECTION FIVE - THE PREPRODUCTION PLAN
@@ -347,11 +201,8 @@ SECTION FIVE - THE PREPRODUCTION PLAN
 [c:dd_the-preproduction_plan]
 ```
 # needs
-* 
 # assets
-* 
 # decisions
-* 
 ---
 ```
 SECTION SIX - PRODUCTION PIPELINE [DEVLOG -OR- TRANSCRIPT OF COMPLETED TASKS]
@@ -360,13 +211,8 @@ SECTION SIX - PRODUCTION PIPELINE [DEVLOG -OR- TRANSCRIPT OF COMPLETED TASKS]
 [c:dd_the-production_pipeline ]
 ```
 # needs
-*
-> > // 
 # assets
-* 
 # decisions
-*
-
 ---
 ```
 SECTION SEVEN - THE LEFTOVERS`
@@ -376,23 +222,4 @@ SECTION SEVEN - THE LEFTOVERS`
 // the-delicious-leftovers-you'll-heat-up-and-eat-for-lunch-(the-next-project)-tomorrow.
 ```
 # needs
-* 
-# assets:
-* BITGEM's `Micro Monster & Heroes Pack Low Poly`
-* ECHO17's `SimpleSQL`
-* FORST's `Oak Trees Package`
-* MANUFACTURA K4's `Top-Down Assets`
-* POLYGON MAKER's `Fantasy Horde - Orc`
-* PROTOFACTOR, INC's `GOLEM`
-* RICIMI's `Frozen GUI Pack`
-* SICS GAMES' `Toon Racing`
-* UNITY EDUCATION's `Endless Runner Assets`
-* UNITY TECHNOLOGIES'
-  - `2D Game Kit`
-  - `Book Of The Dead: Environment`
-  - `Lost Crypt - 2D Sample Project`
-  - `Moody Tunes - LEGO Microgame Add-Ons`
-  - `Moody Skies - LEGO Microgame Add-Ons`
-  - `Standard Assets (for Unity 2018.4)`
 # decisions
-* 
