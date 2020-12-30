@@ -1,3 +1,25 @@
+# DESIGNING THE SANDBOX LIMITATIONS
+## A. PROTOTYPE
+### LOADING/ONBOARDING
+* HEY DEVICE, LISTEN FOR WHEN THE PLAYER PRESSES MY GAME'S ICON, ALERT MY GAME TO DO IT'S THING WHEN ; SHOW A SPLASH/LOADING SCREEN, BEGIN LOADING UI ASSETS, AND DISPLAY THE UI WHEN IT IS LOADED.
+
+* the Device will listen for the player and instruct the Game to load when the player presses the game's icon;
+// need `a game icon` -- here's something for now: ![](.png)
+
+* the Game will load the user interface, but will display a splash/loading screen that will fade out when the user interface is done loading;
+// need a `remedial user interface` that has `one design element conveying the the game's diving concept` and `three buttons: a "play" button, a "settings" button, and a joke button we'll call the "a third option" button` (maybe a link to an article about the ocean wanting you dead... [that didn't take long to find](https://www.cracked.com/article_21612_5-insane-things-deadliest-catch-leaves-out-about-my-job.html))
+
+
+## B. GAME
+### LOADING/ONBOARDING
+*
+
+---
+# NTS ON BELOW ITEMS
+  - BELOW IS THE WORD-VOMIT REMNANTS OF THE GAME'S ORIGINAL INTENTION
+  - NOW THE FOCUS IS ON WHAT I WOULD LIKE THE GAME TO DO `(IN THE FORM OF SOMETHING LIKE: "HEY SOFTWARE, PLEASE LISTEN FOR THE PLAYER DOING THIS, THIS, OR THIS; IF THEY DO THE FIRST THING, DO THIS AND LISTEN FOR THIS; IF THEY DO THIS OTHER THING, DO THIS INSTEAD; IF THEY DO NONE OF THESE THINGS, PLEASE DO THIS THING NEXT." )`
+  - DON'T REMOVE THE BELOW THINGS, BUT ONLY USE THEM FOR REFERENCE AS THE GAME'S INTENTION
+
 ```
 SECTION ONE - COMMERCIAL DOC & DESIGN INTENTIONS -OR- "IT'S LIKE DIE HARD, BUT WITH...
 ```
@@ -62,8 +84,20 @@ This will need to be segmented due to the Assets I may be able to leverage into 
 ---
 ```
 SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
+
+
+# the prototype
+// heavily oversimplified into what works and what doesn't; brief explanations when deemed absolutely necessary.
+```
+## prototype-needs
+* Which in-editor assets do you want to use during development?
+> > // also, wtf does each asset do that you're trying to leverage SPECIFICALLY for this part of this pipeline in this project?
+## prototype-assets
+## prototype-decisions
+
 // page-sorted by category
 ```
+
 ```
 [c:dd_the-2d_plan]
 ```
@@ -172,6 +206,7 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 [c:dd_the-sounds_plan]
 ```
 # needs
+## 
 # decisions
 ---
 ```
@@ -183,15 +218,6 @@ SECTION THREE - NEEDS TO MEET & ASSETS TO MEET THEM
 ```
 SECTION FOUR - THE PROTOTYPE DEVELOPMENT
 ```
-```
-[c:dd_the-prototype_plan]
-// heavily oversimplified into what works and what doesn't; brief explanations when deemed absolutely necessary.
-```
-# prototype-needs
-* Which in-editor assets do you want to use during development?
-> > // also, wtf does each asset do that you're trying to leverage SPECIFICALLY for this part of this pipeline in this project?
-# prototype-assets
-# prototype-decisions
 ---
 ```
 SECTION FIVE - THE PREPRODUCTION PLAN
